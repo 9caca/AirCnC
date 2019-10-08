@@ -26,8 +26,6 @@ React-Native, Node.js, CleanCode e Boas práticas.
 - Mobile
   - React Native, Expo, Socket.io-client, Axios. 
 
-# Instalação e configurações para desenvolvimento
-  - Em breve.
 
 # Meta
   - Carlos Hiroshi Hayashi - @9caca - carlos.hiroshi.hayashi@gmail.com
