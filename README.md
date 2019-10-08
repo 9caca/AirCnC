@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="mobile/src/assets/logo@3x.png" />
+  <img src="mobile/src/assets/logo@2x.png" />
 </p>
 
 <p align="center">
-Projeto inspirado no AirBNB, onde empresas de tecnologia podem disponibilizar espaços para profissionais trabalharem. Pela página web a empresa cadastra os espaços,
-fazendo upload de imagem e cadastrando valor do aluguel e tecnologias que ela trabalha. Pelo App mobile, o profissional visualiza os spots
-cadastrados e solicita reserva no espaço desejado.
+Projeto inspirado no AirBNB, onde empresas de tecnologia podem disponibilizar espaços para profissionais trabalharem. Pela página web a empresa cadastra seus espaços disponíveis,
+fazendo upload de imagem, cadastrando valor do aluguel e com quais tecnologias ela trabalha. Pelo App mobile, o profissional pode visualizar os spots
+cadastrados e solicitar uma reserva no espaço desejado.<br>
 
 <img src="AirCnC.jpg" alt="example screenshot"/>
 
@@ -17,7 +17,7 @@ React-Native, Node.js, CleanCode e Boas práticas.
 
 # Tecnologia e bibliotecas utilizadas
 
--BackEnd
+- BackEnd
   -Node.js, Express, Socket.io, MongoDB, Mongoose, Multer, Insomnia.
 
 - FrontEnd
@@ -25,6 +25,9 @@ React-Native, Node.js, CleanCode e Boas práticas.
 
 - Mobile
   - React Native, Expo, Socket.io-client, Axios. 
+
+# Instalação e configurações para desenvolvimento
+  - Em breve.
 
 # Meta
   - Carlos Hiroshi Hayashi - @9caca - carlos.hiroshi.hayashi@gmail.com
