@@ -18,7 +18,7 @@ React-Native, Node.js, CleanCode e Boas práticas.
 # Tecnologia e bibliotecas utilizadas
 
 - BackEnd
-  -Node.js, Express, Socket.io, MongoDB, Mongoose, Multer, Insomnia.
+  - Node.js, Express, Socket.io, MongoDB, Mongoose, Multer, Insomnia.
 
 - FrontEnd
   - ES6, CSS3, React, API Rest, Socket.io-client, Axios.
